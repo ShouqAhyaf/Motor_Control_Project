@@ -11,9 +11,6 @@ Welcome to the DC Motor Control Projects repository! This repo contains two fun 
 - [📁 Project Structure](#-project-structure)
 - [🔌 Components Used](#-components-used)
 - [🛠️ Setup and Usage](#️-setup-and-usage)
-- [🖼️ Images](#-images)
-- [📜 License](#-license)
-
 
 ## 🌟 Overview
 
