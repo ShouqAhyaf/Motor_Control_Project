@@ -11,6 +11,7 @@ Welcome to the DC Motor Control Projects repository! This repo contains two fun 
 - [📁 Project Structure](#-project-structure)
 - [🔌 Components Used](#-components-used)
 - [🛠️ Setup and Usage](#️-setup-and-usage)
+- [🖼️ Images](#-images)
 
 ## 🌟 Overview
 
@@ -56,7 +57,7 @@ DC-Motor-Control-Project/
    git clone https://github.com/ShouqAhyaf/Motor_Control_Project.git
    ```
 
-2. Navigate to the desired project directory (['TinkerCAD'](./TinkerCAD).` or ['RealWorld'](./RealWorld).
+2. Navigate to the desired project directory (['TinkerCAD'](./TinkerCAD).` or ['RealWorld'](./RealWorld)).
 
 3. Open the Arduino code (`.ino` file) in the Arduino IDE.
 
